@@ -1,5 +1,5 @@
 {
-  "name": "@lucasplpx-ui/tokens",
+  "name": "@lucasplpx-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -8,11 +8,12 @@
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --dts",
     "dev": "tsup src/index.ts --format esm,cjs --dts --watch"
-  },
+   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@lucasplpx-ui/tokens": "*",
     "tsup": "^6.2.3",
     "typescript": "^4.8.4"
   }
