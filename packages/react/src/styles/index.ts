@@ -6,8 +6,8 @@ import {
   lineHeights,
   radii,
   space,
-} from '@lucasplpx-ui/tokens';
-import { createStitches, defaultThemeMap } from '@stitches/react';
+} from '@lucasplpx-ui/tokens'
+import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {
   styled,
@@ -25,12 +25,12 @@ export const {
     width: 'space',
   },
   theme: {
-    colors: colors,
-    fontSizes: fontSizes,
-    fontWeights: fontWeights,
-    fonts: fonts,
-    lineHeights: lineHeights,
-    radii: radii,
-    space: space,
+    colors,
+    fontSizes,
+    fontWeights,
+    fonts,
+    lineHeights,
+    radii,
+    space,
   },
-});
+})
