@@ -1,0 +1,2 @@
+import{A as t}from"./index.2c193b6d.js";import"./index.345ed3da.js";import"./iframe.97fd2cbc.js";import"./index.94f0c1db.js";import"./jsx-runtime.714ddc02.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/Lucasplpx.png",alt:"Lucas Passos"},argTypes:{src:{control:{type:"text"}}}},i={},m={args:{src:void 0}},e=["Primary","WithFallback"];export{i as Primary,m as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.4e73c68d.js.map
